@@ -1,5 +1,5 @@
 <h1 align="center">
-🚀 Telegram Bot Installer - HOKAGE LEGEND
+🚀 Telegram Bot Installer - GENZNET VPN STORE
 </h1>
 
 <p align="center">
